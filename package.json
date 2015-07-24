@@ -1,0 +1,16 @@
+{
+  "name": "error-responder",
+  "version": "0.0.1",
+  "description": "Standardize and simplify returning errors through your apis.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "error",
+    "api",
+    "response"
+  ],
+  "author": "Eric Olson",
+  "license": "MIT"
+}
