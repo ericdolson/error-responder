@@ -11,6 +11,13 @@
     "api",
     "response"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ericdolson/error-responder"
+  },
+  "bugs": {
+    "url": "https://github.com/ericdolson/error-responder"
+  },
   "author": "Eric Olson",
   "license": "MIT"
 }
