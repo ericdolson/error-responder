@@ -1,6 +1,6 @@
 {
   "name": "error-responder",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Standardize and simplify returning errors through your apis.",
   "main": "lib/index.js",
   "scripts": {
